@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #things you need: trimmomatic, stringtie, hisat2, samtools
-#miniconda might help the installation: https://docs.conda.io/en/latest/miniconda.html
+#Miniconda or anaconda recommended to install these tools: https://docs.conda.io/en/latest/miniconda.html
 
 
 #what this does: for a list of arguments, trims reads, aligns with hisat,converts to bam, runs stringtie on that bam 
